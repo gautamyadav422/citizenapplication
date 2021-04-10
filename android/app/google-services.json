@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644475511014",
+    "project_id": "citizenapp2-2fadb",
+    "storage_bucket": "citizenapp2-2fadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644475511014:android:6a65eaab9ed21677521b27",
+        "android_client_info": {
+          "package_name": "com.example.citizenapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644475511014-0tcg061hcs9jk50l3culpdh69b4v9gg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidx6JcxOw2MZMog1QFH7ci_vU1Hf342g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644475511014-0tcg061hcs9jk50l3culpdh69b4v9gg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
